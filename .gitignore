@@ -52,3 +52,5 @@ rsconnect/
 *.Rprog
 
 *.Rproj
+
+#everything should be fine now
