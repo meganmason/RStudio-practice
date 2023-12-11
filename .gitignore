@@ -49,14 +49,11 @@ po/*~
 rsconnect/
 
 # Rproj files
-*.Rprog
-
-
-# add another comment
-
 *.Rproj
+
 
 #everything should be fine now
 
-#let's try this again
+
+#end of file
 
