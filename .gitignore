@@ -49,10 +49,6 @@ po/*~
 rsconnect/
 
 # Rproj files
-*.Rprog
-
-
-# add another comment
-
 *.Rproj
 
+#end of file
